@@ -3,7 +3,7 @@ const questions = [
         question:"What is the correct way to declare a variable in JavaScript?",
         answers:[
             
-                {text:"vair myVar = 10", correct: false},
+                {text:"var myVar = 10", correct: false},
                { text:"variable myVar = 10",correct:false},
                { text:"let myVar = 10",correct:true},
                { text:"int myVar = 10",correct:false},
